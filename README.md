@@ -1,1 +1,6 @@
 # Foodie-Application
+Foodie App is an online application for ordering food that has separate sections for customers and merchants. Merchants have full access to all features on this platform, which includes the ability to easily manage food items & restaurants with adding, modifying, and deletion capabilities. On the other hand, customers find it convenient to put their favorite foods & restaurants to the favorites list and easily retrieve them from there.
+
+A visual user experience is ensured by the usage of frontend technologies such as HTML, CSS, AngularJS, TypeScript, Angular Material & Bootstrap. Java, Spring Boot, Microservices, API Gateway & Eureka Server are the solid foundations of the backend architecture, which promotes operational scalability and agility. Eureka server facilitates service discovery, while API gateway effectively handles API interactions. I have used JUnit & Mockito Framework for testing.
+
+JSON Web Tokens (JWT) are used for authentication in order to improve security, and Email-Id is automatically incorporated into the token storage system. Token-extracted Email-Ids are systematically used for user authentication and authorization, and session storage is efficiently used for token and role maintenance. I have used MySQL & MongoDB databases, ensuring optimal data management and retrieval capabilities.
